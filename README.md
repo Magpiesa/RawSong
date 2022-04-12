@@ -7,15 +7,16 @@
 module main
 
 aboutMe :: struct {
-  pronouns :: string[];
+  name :: string[];
   languages :: string[];
   hobbies :: string[];
+  love :: string[];
   funFact :: string;
 }
 
 main :: func(): void {
   ethan :: aboutMe = {
-    pronouns: ["He", "Him"],
+    name: ["He", "Him"],
     languages: ["C", "C#", "Java", "Python"],
     hobbies: ["Coding", "Gaming", "Talking"],
     funFact: "The first computer virus was created in 1983!"
