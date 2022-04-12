@@ -1,7 +1,7 @@
 ### 👋大家好，我是RawHu。
 - 👾我的博客：lovexjh.com
 - 🌱计算机专业的高三学生，渴望并相信美好的事情发生
-https://img.shields.io/badge/python-3.9-orange
+https://camo.githubusercontent.com/fb02c59254ea1b90a7728fce985a77a022574830e3f9de3ae27c1bb1029acea0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d6f72616e67653f7374796c653d666c6174266c6f676f3d6a617661
 <!--
 **RawSong/RawSong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
