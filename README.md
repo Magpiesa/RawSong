@@ -1,6 +1,7 @@
 ### 👋大家好，我是RawHu。
 - 👾我的博客：lovexjh.com
 - 🌱计算机专业的高三学生，渴望并相信美好的事情发生
+/depfu/dependencies/:vcsType/:project+
 <!--
 **RawSong/RawSong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
