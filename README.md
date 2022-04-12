@@ -1,6 +1,32 @@
 ### 👋大家好，我是RawHu。
 - 👾我的博客：[lovexjh.com](lovexjh.com)  访问的次数: ![Visitor Count](https://profile-counter.glitch.me/RawSong/count.svg)
 - 🌱计算机专业的高三学生，渴望并相信美好的事情发生。
+- 𝗜 𝗮𝗺 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿 𝗶𝗻 𝗵𝗶𝗴𝗵 𝘀𝗰𝗵𝗼𝗼𝗹
+- 𝗜❤️𝗟𝗼𝘄 𝗟𝗲𝘃𝗲𝗹 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴！
+```julia
+module main
+
+aboutMe :: struct {
+  pronouns :: string[];
+  languages :: string[];
+  hobbies :: string[];
+  funFact :: string;
+}
+
+main :: func(): void {
+  ethan :: aboutMe = {
+    pronouns: ["He", "Him"],
+    languages: ["C", "C#", "Java", "Python"],
+    hobbies: ["Coding", "Gaming", "Talking"],
+    funFact: "The first computer virus was created in 1983!"
+  };
+
+  println "Pronouns: ${ethan.pronouns}";
+  println "Languages I Know: ${ethan.languages}";
+  println "My Hobbies: ${ethan.hobbies}";
+  println "Fun Fact: ${ethan.funFact}";
+}
+```
 <div>
 <a href="https://github.com/rawchen"><img src="https://camo.githubusercontent.com/fb02c59254ea1b90a7728fce985a77a022574830e3f9de3ae27c1bb1029acea0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d6f72616e67653f7374796c653d666c6174266c6f676f3d6a617661" alt="Java" data-canonical-src="https://img.shields.io/badge/Java-orange?style=flat&amp;logo=java" style="max-width: 100%;"></a>
 <a href="https://github.com/rawchen"><img src="https://camo.githubusercontent.com/6f55ed18608ce2b3322587f2de18b4f66069781b603aa28b2f351f21ad19cbd3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c6174266c6f676f3d676974266c696e6b3d68747470733a2f2f6769746875622e636f6d2f7261776368656e" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-black?style=flat&amp;logo=git&amp;link=https://github.com/rawchen" style="max-width: 100%;"></a>
