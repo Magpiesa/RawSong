@@ -1,8 +1,14 @@
 ### 👋大家好，我是RawHu。
 - 👾我的博客：[lovexjh.com](lovexjh.com)  访问的次数: ![Visitor Count](https://profile-counter.glitch.me/RawSong/count.svg)
 - 🌱计算机专业的高三学生，渴望并相信美好的事情发生。
+- 🤔探索新技术并开发软件解决方案和快速破解。
+- 🎓在 IIIT Vadodara 学习计算机科学和工程以及编码的东西。
+- ✍️追求 Web 开发作为爱好/副业。
 - 𝗜 𝗮𝗺 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿 𝗶𝗻 𝗵𝗶𝗴𝗵 𝘀𝗰𝗵𝗼𝗼𝗹
 - 𝗜❤️𝗟𝗼𝘄 𝗟𝗲𝘃𝗲𝗹 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴！
+### 🛠技术栈
+- 💻  Python | Java | C++ | C | MySQL
+- 🌐  HTML | CSS | JavaScript | Bootstrap | ReactJS
 ```julia
 module main
 
